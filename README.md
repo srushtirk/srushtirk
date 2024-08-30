@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srushtirk
 - 👀 I’m interested in creating cool products
-- 📫 How to reach me - srushtirkhairnar@gmail.com
+- 📫 How to reach me - 
 
 <!---
 srushtirk/srushtirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
